@@ -1,0 +1,43 @@
+.navbar{
+	height: 100px;
+	width: 100%;
+	text-align: center;
+	background-color: #c9be24 ;
+	position: fixed;
+	left: 0;
+	top: 0;
+	right: 0;
+}
+.navbar h1{
+	color: rgb(167, 17, 17);
+	margin-top: 12px;
+}
+.navbar img{
+    border-radius: 50%;
+    width: 95px;
+    height: 95px;
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 50;
+    border: 2px solid;
+    
+}
+.content{
+    margin-top: 110px;
+    
+}
+.header{
+    text-align: center;
+   
+}
+.banner {
+    background-image: url(bg.jpg);
+    position: fixed;
+	color: rgb(255, 247, 0);
+	height: 100%;
+    position: fixed;
+    
+
+}
